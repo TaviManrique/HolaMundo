@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="titulo_app">My Hellow World</string>
+    <string name="login_titulo">Welcome</string>
+    <string name="login_boton_entrar">Enter</string>
+</resources>
